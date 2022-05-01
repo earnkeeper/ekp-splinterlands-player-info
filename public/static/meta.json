@@ -1,9 +1,9 @@
 {
-  "id": "splinterlands-battle-planner",
+  "id": "splinterlands-player-info",
   "gameId": "splinterlands",
-  "name": "Battle Planner",
-  "github": "https://github.com/earnkeeper/ekp-splinterlands-battle-planner",
+  "name": "Player Info",
+  "github": "https://github.com/earnkeeper/ekp-splinterlands-player-info",
   "image": "/static/market.jpeg",
-  "mainPage": "planner",
-  "description": "Which team should you choose for your next match? Check by team popularity and win rate."
+  "mainPage": "playercards",
+  "description": "Want to watch your own battle history and card market value? Or someone elses? 👀"
 }
