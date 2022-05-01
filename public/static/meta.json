@@ -5,5 +5,6 @@
   "github": "https://github.com/earnkeeper/ekp-splinterlands-player-info",
   "image": "/static/market.jpeg",
   "mainPage": "playercards",
-  "description": "Want to watch your own battle history and card market value? Or someone elses? 👀"
+  "description": "Want to watch your own battle history and card market value? Or someone elses? 👀",
+  "features": ["Player Collection", "Battle History"]
 }
